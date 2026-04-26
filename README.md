@@ -5,7 +5,7 @@
 > I build production-grade systems and lead operations across industries.
 > Currently open to remote opportunities in tech, finance, and operations.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/satryayp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satryayp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satryayogapratama@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://askafinance.id)
 
@@ -16,10 +16,10 @@
 ### [ASKA Finance ERP](https://askafinance.id)
 A full production ERP system built from scratch for a manufacturing company.
 
-- 📦 Modules: GL, AP/AR, double-entry journal, payroll, inventory, sales
+- 📦 GL, AP/AR, double-entry journal, payroll, inventory, sales
 - ⚡ Real-time updates via Server-Sent Events (SSE)
-- 📊 Financial reporting, PDF invoicing, Excel export
-- 🤖 Telegram bot integration for approvals & notifications
+- 📊 PDF invoicing, Excel export, financial reporting
+- 🤖 Telegram bot integration for approvals
 - 🐳 Deployed on VPS with Docker + Nginx
 
 **Stack:** `Node.js` `Express` `MySQL` `Docker` `PHP` `HTML/CSS/JS`
@@ -53,23 +53,23 @@ A full production ERP system built from scratch for a manufacturing company.
 ## 🏆 Certifications
 
 - **[micro1 Certified](https://micro1-portal-data.s3.amazonaws.com/engineer-certificates/1777169263-345ec31a-90da-4124-b8c9-9a18aac82127.jpg)** — CFO Systems Architect & Finance Consultant *(April 2026)*
-- **SAP S/4HANA Essentials for Beginners** — Great Learning *(April 2026)* · [Verify](https://mygreatlearning.com/certificate/GPHCKGPQ)
-- **International Marketing & Supply Chain Management** — Alison *(April 2026)* · [Verify](https://alison.com/verify/bcd415d845)
-- **AI Data Management** — Great Learning *(April 2026)* · [Verify](https://mygreatlearning.com/certificate/UKVCOSOU)
-- **Data Science & Business Analytics** — Great Learning *(April 2026)* · [Verify](https://mygreatlearning.com/certificate/UKNTIYJF)
+- **SAP S/4HANA Essentials** — Great Learning *(April 2026)*
+- **International Marketing & Supply Chain** — Alison *(April 2026)*
+- **AI Data Management** — Great Learning *(April 2026)*
+- **Data Science & Business Analytics** — Great Learning *(April 2026)*
 
 ---
 
 ## 📊 GitHub Stats
 
-![Satrya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satryayogapratama-ux&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satryayogapratama-ux&layout=compact&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=satryayogapratama-ux&show_icons=true&theme=dark&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satryayogapratama-ux&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## 📬 Contact
 
 - 🌐 [askafinance.id](https://askafinance.id)
-- 💼 [LinkedIn](www.linkedin.com/in/satryayp)
+- 💼 [linkedin.com/in/satryayp](https://linkedin.com/in/satryayp)
 - 📧 satryayogapratama@gmail.com
 - 📍 Indonesia · Open to Remote & Relocation
