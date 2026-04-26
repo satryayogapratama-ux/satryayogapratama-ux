@@ -1,4 +1,4 @@
-# Hi, I'm Satrya Yoga Pratama 👋
+# Satrya Yoga Pratama
 
 **Full-Stack Developer · AI Builder · Operations Leader**
 
@@ -11,54 +11,54 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ☕ [KasirAI — AI Cafe POS & Accounting](https://github.com/satryayogapratama-ux/kasiraai)
-> *The world's first cafe POS with self-learning waste AI*
+### [KasirAI — AI Cafe POS & Accounting](https://github.com/satryayogapratama-ux/kasiraai)
+*The world's first cafe POS with self-learning waste AI*
 
-Revolutionary AI system that turns a single cashier transaction into fully automated bookkeeping — built for Indonesian cafes.
+Revolutionary AI system that turns a single cashier transaction into fully automated bookkeeping — built for the Indonesian cafe market.
 
-- 🧠 **ML Waste Learning** — adapts to your cafe's specific waste patterns (SGDRegressor online learning)
-- 📈 **AI Demand Forecasting** — predicts tomorrow's sales per menu (RandomForest)
-- 🚨 **Anomaly Detection** — real-time theft & spillage alerts (IsolationForest)
-- 📦 **Smart Reorder AI** — predicts stockout 2 days before it happens
-- 📒 **Auto Double-Entry Bookkeeping** — 1 transaction = full journal, COGS, inventory deduction
-- 🧾 **NLP Receipt OCR** — parses Indonesian supplier receipts with typo handling
+- **ML Waste Learning** — adapts to your cafe's specific waste patterns (SGDRegressor online learning)
+- **AI Demand Forecasting** — predicts tomorrow's sales per menu item (RandomForest)
+- **Anomaly Detection** — real-time theft and spillage alerts (IsolationForest)
+- **Smart Reorder AI** — predicts stockout 2 days before it happens
+- **Auto Double-Entry Bookkeeping** — 1 transaction generates full journal, COGS, and inventory deduction
+- **NLP Receipt OCR** — parses Indonesian supplier receipts with typo handling
 
 **Stack:** `Python` `scikit-learn` `RandomForest` `IsolationForest` `SGDRegressor` `NLP`
 
 ---
 
-### 🔒 [SafetyIQ — AI Workplace Safety Prediction](https://github.com/satryayogapratama-ux/safetyiq)
-> *Enterprise HSE incident prevention — 91% F1-Score*
+### [SafetyIQ — AI Workplace Safety Prediction](https://github.com/satryayogapratama-ux/safetyiq)
+*Enterprise HSE incident prevention — 91% F1-Score*
 
-AI system for predictive workplace safety, built for Fortune 500 & Aramco-level security requirements.
+AI system for predictive workplace safety, built for Fortune 500 and Aramco-level security requirements.
 
-- 🤖 **91% F1-Score** ML model trained on 500+ HSE records
-- 🛡️ Three security modes: Air-Gapped, Hybrid, Cloud
-- 🔒 Data masking before any LLM call — PII never leaves your network
-- 🌍 Compliance: Aramco SHASANC, GDPR, Australian WHS, Indonesian K3
-- 🔓 Free alternative to Intelex ($50K/yr) & Cority ($80K/yr)
+- **91% F1-Score** ML model trained on 500+ HSE records
+- Three security modes: Air-Gapped, Hybrid, Cloud
+- Data masking before any LLM call — PII never leaves your network
+- Compliance-ready: Aramco SHASANC, GDPR, Australian WHS, Indonesian K3
+- Free open-source alternative to Intelex ($50K/yr) and Cority ($80K/yr)
 
 **Stack:** `Python` `scikit-learn` `RandomForest` `Ollama` `AES-256` `REST API`
 
 ---
 
-### 🏭 [ASKA Finance ERP](https://askafinance.id)
-> *Full production ERP built from scratch — live at askafinance.id*
+### [ASKA Finance ERP](https://askafinance.id)
+*Full production ERP built from scratch — live at askafinance.id*
 
 Complete ERP system for a manufacturing company, built and deployed solo.
 
-- 📦 GL, AP/AR, double-entry journal, payroll, inventory, sales
-- ⚡ Real-time updates via Server-Sent Events (SSE)
-- 🤖 Telegram bot integration for approvals
-- 🐳 VPS deployment with Docker + Nginx
+- GL, AP/AR, double-entry journal, payroll, inventory, sales
+- Real-time updates via Server-Sent Events (SSE)
+- Telegram bot integration for approvals
+- VPS deployment with Docker and Nginx
 
 **Stack:** `Node.js` `Express` `MySQL` `Docker` `PHP` `HTML/CSS/JS`
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -71,7 +71,7 @@ Complete ERP system for a manufacturing company, built and deployed solo.
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Company | Industry | Period |
 |------|---------|----------|--------|
@@ -82,7 +82,7 @@ Complete ERP system for a manufacturing company, built and deployed solo.
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 - **[micro1 Certified](https://micro1-portal-data.s3.amazonaws.com/engineer-certificates/1777169263-345ec31a-90da-4124-b8c9-9a18aac82127.jpg)** — CFO Systems Architect & Finance Consultant *(April 2026)*
 - **SAP S/4HANA Essentials** — Great Learning *(April 2026)*
@@ -92,16 +92,16 @@ Complete ERP system for a manufacturing company, built and deployed solo.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=satryayogapratama-ux&show_icons=true&theme=dark&hide_border=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satryayogapratama-ux&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## 📬 Contact
+## Contact
 
-- 🌐 [askafinance.id](https://askafinance.id)
-- 💼 [linkedin.com/in/satryayp](https://linkedin.com/in/satryayp)
-- 📧 satryayogapratama@gmail.com
-- 📍 Indonesia · Open to Remote & Relocation
+- [askafinance.id](https://askafinance.id)
+- [linkedin.com/in/satryayp](https://linkedin.com/in/satryayp)
+- satryayogapratama@gmail.com
+- Indonesia · Open to Remote & Relocation
