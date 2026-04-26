@@ -2,8 +2,8 @@
 
 **Full-Stack Developer · AI Builder · Operations Leader**
 
-> I build production-grade AI systems and lead operations across industries.
-> Currently open to remote opportunities in tech, finance, and operations.
+> I build production-grade AI systems across industries — from mining and manufacturing to government nutrition programs.
+> Open to remote opportunities in tech, finance, and operations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satryayp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satryayogapratama@gmail.com)
@@ -11,43 +11,73 @@
 
 ---
 
-## Featured Projects
+## Projects
+
+### [GiziIQ — AI Nutrition Planning for Indonesia's MBG Program](https://github.com/satryayogapratama-ux/giziiq)
+
+Indonesia's first AI-powered nutrition planning system built specifically for the Makan Bergizi Gratis program (President Prabowo Subianto, Rp 339 trillion, 82 million beneficiaries, 5,000 SPPG units).
+
+- Type school name → auto-search DAPODIK → student data auto-assigned to AKG groups
+- AI menu generator: constraint optimization across calories, protein, budget, and variety
+- Trimester-adaptive pregnancy nutrition (T1: +100 kcal, T2: +300 kcal, T3: +450 kcal)
+- Baby age-adaptive lactation nutrition (0-6 months, 7-12 months, 12+ months)
+- Real-time AKG compliance validation per Permenkes No. 28/2019
+- Procurement planning with cost breakdown per portion
+- One-click BGN report generation
+- Adaptive learning: improves menu recommendations from historical data
+
+**Stack:** `Python` `scipy` `TKPI 2017` `DAPODIK API` `numpy` `pandas`
+
+---
 
 ### [KasirAI — AI Cafe POS & Accounting](https://github.com/satryayogapratama-ux/kasiraai)
-*The world's first cafe POS with self-learning waste AI*
 
-Revolutionary AI system that turns a single cashier transaction into fully automated bookkeeping — built for the Indonesian cafe market.
+The first cafe POS with self-learning waste AI — built for the Indonesian cafe market.
 
-- **ML Waste Learning** — adapts to your cafe's specific waste patterns (SGDRegressor online learning)
-- **AI Demand Forecasting** — predicts tomorrow's sales per menu item (RandomForest)
-- **Anomaly Detection** — real-time theft and spillage alerts (IsolationForest)
-- **Smart Reorder AI** — predicts stockout 2 days before it happens
-- **Auto Double-Entry Bookkeeping** — 1 transaction generates full journal, COGS, and inventory deduction
-- **NLP Receipt OCR** — parses Indonesian supplier receipts with typo handling
+- ML Waste Learning: adapts to each cafe's specific waste patterns (SGDRegressor online learning)
+- AI Demand Forecasting: predicts tomorrow's sales per menu item (RandomForest)
+- Anomaly Detection: real-time theft and spillage alerts (IsolationForest)
+- Smart Reorder AI: predicts stockout before it happens
+- Auto double-entry bookkeeping from a single cashier transaction
+- NLP receipt OCR: parses Indonesian supplier receipts with typo handling
 
 **Stack:** `Python` `scikit-learn` `RandomForest` `IsolationForest` `SGDRegressor` `NLP`
 
 ---
 
+### [Asst Surveyor AI — AI Mining Survey Assistant](https://github.com/satryayogapratama-ux/asst-surveyor-ai)
+
+Open-source ML layer for mining surveyors — grade estimation that outperforms traditional Kriging by +7.82%.
+
+- Random Forest / XGBoost / Neural Network vs Kriging: auto-selects best model per dataset
+- Anomaly detection on survey coordinates and assay data (IsolationForest + LOF)
+- Volume calculation: TIN triangulation vs ML-enhanced RBF fitting
+- Coordinate transformation with AI input validation (full Indonesia UTM zone support)
+- Drill hole analysis with mineralization zone clustering (K-Means, DBSCAN)
+- One-click automated HTML report
+- Not a replacement for Surpac/Vulcan — an open-source ML layer targeting SME mining at $0 cost
+
+**Stack:** `Python` `scikit-learn` `XGBoost` `RandomForest` `scipy` `numpy`
+
+---
+
 ### [SafetyIQ — AI Workplace Safety Prediction](https://github.com/satryayogapratama-ux/safetyiq)
-*Enterprise HSE incident prevention — 91% F1-Score*
 
-AI system for predictive workplace safety, built for Fortune 500 and Aramco-level security requirements.
+Enterprise HSE incident prevention system — 91% F1-Score, built for Fortune 500 and Aramco-level security requirements.
 
-- **91% F1-Score** ML model trained on 500+ HSE records
-- Three security modes: Air-Gapped, Hybrid, Cloud
-- Data masking before any LLM call — PII never leaves your network
+- 91% F1-Score RandomForest model trained on 500+ HSE records
+- Three security modes: Air-Gapped (Ollama), Hybrid, Cloud
+- Data masking before any LLM call — PII never leaves the network
 - Compliance-ready: Aramco SHASANC, GDPR, Australian WHS, Indonesian K3
-- Free open-source alternative to Intelex ($50K/yr) and Cority ($80K/yr)
+- Open-source alternative to Intelex ($50K/yr) and Cority ($80K/yr)
 
 **Stack:** `Python` `scikit-learn` `RandomForest` `Ollama` `AES-256` `REST API`
 
 ---
 
 ### [ASKA Finance ERP](https://askafinance.id)
-*Full production ERP built from scratch — live at askafinance.id*
 
-Complete ERP system for a manufacturing company, built and deployed solo.
+Full production ERP built from scratch for a manufacturing company — live at askafinance.id.
 
 - GL, AP/AR, double-entry journal, payroll, inventory, sales
 - Real-time updates via Server-Sent Events (SSE)
