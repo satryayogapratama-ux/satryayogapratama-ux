@@ -48,7 +48,7 @@ A full production ERP system built from scratch for a manufacturing company.
 
 ## 🏆 Certifications
 
-- **micro1 Certified** — CFO Systems Architect & Finance Consultant *(April 2026)*
+-  **micro1 Certified** — CFO Systems Architect & Finance Consultant *(April 2026)* · [View Certificate](https://micro1-portal-data.s3.amazonaws.com/engineer-certificates/1777169263-345ec31a-90da-4124-b8c9-9a18aac82127.jpg)
 - **SAP S/4HANA Essentials for Beginners** — Great Learning *(April 2026)* · [Verify](https://mygreatlearning.com/certificate/GPHCKGPQ)
 - **International Marketing & Supply Chain Management** — Alison *(April 2026)* · [Verify](https://alison.com/verify/bcd415d845)
 - **AI Data Management** — Great Learning *(April 2026)* · [Verify](https://mygreatlearning.com/certificate/UKVCOSOU)
