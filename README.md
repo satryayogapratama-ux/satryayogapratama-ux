@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [ASKA Finance ERP](https://askafinance.id)
 A full production ERP system built from scratch for a manufacturing company.
@@ -23,6 +23,20 @@ A full production ERP system built from scratch for a manufacturing company.
 - 🐳 Deployed on VPS with Docker + Nginx
 
 **Stack:** `Node.js` `Express` `MySQL` `Docker` `PHP` `HTML/CSS/JS`
+
+---
+
+### [SafetyIQ — AI Workplace Safety Prediction](https://github.com/satryayogapratama-ux/safetyiq)
+Enterprise-grade AI system for predictive HSE (Health, Safety & Environment) incident prevention.
+
+- 🤖 **91% F1-Score** RandomForest ML model trained on 500+ HSE records
+- 🔒 Three security modes: Air-Gapped, Hybrid, Cloud — built for Fortune 500
+- 🛡️ Data masking before any LLM call — PII never leaves your network
+- 📊 Explainable predictions with top risk factors & confidence scores
+- 🌍 Compliance-ready: Aramco SHASANC, GDPR, Australian WHS, Indonesian K3
+- 🔓 MIT open-source — free alternative to Intelex ($50K/yr) & Cority ($80K/yr)
+
+**Stack:** `Python` `scikit-learn` `RandomForest` `Ollama` `AES-256` `REST API`
 
 ---
 
